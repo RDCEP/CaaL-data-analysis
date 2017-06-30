@@ -1,0 +1,16 @@
+Week of June 19
+Jeremy started on June 19.
+We began by exploring the data and plotting it.  We sorted buildings by type and plotted against time and temperature.
+Goals from Friday, June 23 meeting: Make bar plots with cumulative data; look at temporal patterns; normalize for building area; look for correlations with weather data
+Associated files: Plots+by+Building+Type(1), Cumualtive+Usage, Temporal+Usage(1)
+
+Week of June 26
+Abby started on June 26.
+We made bar plots following the specifications discussed at out June 23 meeting.
+We worked on creating functions for different plots.
+Goals from Thursday, June 29 meeting: Research standards for energy use by building type; compare meters to decouple usage and find base loads; identify the most costly buildings; look for correlations with age; start a narrative document on GitHub
+We created a new csv file without hospital buildings following our meeting on June 29 in which it was determined to focus on non-hospital energy usage.
+We identified errors and inconsistencies in the raw data and corrected them.  We added edited data files to a Box folder.
+Associated files: Cumulative+Usage+by+Building+Type, Academic+Usage, Administrative+Usage, Dorm+Usage, Hospital+Usage, Lab+Usage, Library+Usage, Service+Usage, Graph by code or building type (function), Usages separated by building type (Function)
+
+Week of July 3
