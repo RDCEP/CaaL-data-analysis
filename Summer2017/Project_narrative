@@ -14,3 +14,4 @@ We identified errors and inconsistencies in the raw data and corrected them.  We
 Associated files: Cumulative+Usage+by+Building+Type, Academic+Usage, Administrative+Usage, Dorm+Usage, Hospital+Usage, Lab+Usage, Library+Usage, Service+Usage, Graph by code or building type (function), Usages separated by building type (Function)
 
 Week of July 3
+Abby (July 3): I managed to graph temperature vs usage, normalized for building area for dorms and administrative buildings, with no significant results
