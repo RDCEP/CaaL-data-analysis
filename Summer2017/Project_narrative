@@ -15,3 +15,4 @@ Associated files: Cumulative+Usage+by+Building+Type, Academic+Usage, Administrat
 
 Week of July 3
 We’ve managed to graph temperature vs usage, normalized for building area for dorms and administrative buildings, with no significant results. We also managed to find some data on annual electricity consumption. It’s not specific to university campuses, but the way the data is categorized suggests it can be applied to universities
+We plotted usage per square foot against age.  We saw no clear correlation, although more recent buildings often use more electricity than older ones.
