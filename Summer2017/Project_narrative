@@ -18,3 +18,4 @@ We’ve managed to graph temperature vs usage, normalized for building area for 
 We plotted usage per square foot against age.  We saw no clear correlation, although more recent buildings often use more electricity than older ones.
 We analyzed buildings' usage by separating out the meters.  Some meters showed little volitility, while others very greatly by month or time of day.  Meters that peaked in hot summer months tended to dip mid-week.  Meters that dipped in the less-populated summer months tended to dip on weekends.
 We compared LEED certified buildings to those that used the most electricity.  The LEED certified buildings showed greater disparity between base load and peak load.
+Associated files: Average Electricity Use by Building type (2012 EIA Data ), US National Median Table, Building+Age+vs+Cumulative+Usage, Time+plots+by+building+and+by+meter
