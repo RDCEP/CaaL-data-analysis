@@ -23,3 +23,4 @@ Associated files: Average Electricity Use by Building type (2012 EIA Data ), US 
 
 Week of July 10
 We modified the functions from Time+plots+by+building+and+by+meter to include stacked bar plots and time ranges.
+We also graphed building age vs usage for all buildings, groups of buildings, and LEED gold buildings 
