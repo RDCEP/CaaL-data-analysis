@@ -25,4 +25,5 @@ Week of July 10
 We modified the functions from Time+plots+by+building+and+by+meter to include stacked bar plots and time ranges.
 We also graphed building age vs usage for all buildings, groups of buildings, and LEED gold buildings 
 We began working on an anomaly detector by defining a function to average usage data for days within 50 calendar days, average temperatures within 5 degrees, and the same part of the week(i.e. weekday or weekend).
+We applied the anomaly detector to two years of data and adjusted constants to better reflect apparent anomalies.
 Associated file: Normal+Usage
