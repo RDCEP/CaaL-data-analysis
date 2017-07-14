@@ -24,3 +24,8 @@ Associated files: Average Electricity Use by Building type (2012 EIA Data ), US 
 Week of July 10
 We modified the functions from Time+plots+by+building+and+by+meter to include stacked bar plots and time ranges.
 We also graphed building age vs usage for all buildings, groups of buildings, and LEED gold buildings 
+We began working on an anomaly detector by defining a function to average usage data for days within 50 calendar days, average temperatures within 5 degrees, and the same part of the week(i.e. weekday or weekend).
+We applied the anomaly detector to two years of data and adjusted constants to better reflect apparent anomalies.
+We focused on data by day, since half-hour anomalies are too frequent and often isolated, and we identified groups of anomalous days close in time.
+We worked on analyzing long-term trends but found identifying anomalies on the scale of a month or season difficult with less than two years of data.
+Associated file: Normal+Usage
