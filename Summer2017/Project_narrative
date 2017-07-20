@@ -28,7 +28,7 @@ We began working on an anomaly detector by defining a function to average usage 
 We applied the anomaly detector to two years of data and adjusted constants to better reflect apparent anomalies.
 We focused on data by day, since half-hour anomalies are too frequent and often isolated, and we identified groups of anomalous days close in time.
 We worked on analyzing long-term trends but found identifying anomalies on the scale of a month or season difficult with less than two years of data.
-Goals from Friday, July 14 meeting: Look at smoothing with moving average and typical shapes of usage per day or week; graph percent differences as well as normal usage with actual usage; identify for common anomalies among meters; continue to investigate building groups, starting with labs; continue to look and explain/question high usage 
+Goals from Friday, July 14 meeting: Look at smoothing with moving average and typical shapes of usage per day or week; graph percent differences as well as normal usage with actual usage; identify common anomalies among meters; continue to investigate building groups, starting with labs; continue to look and explain/question high usage 
 Associated file: Normal+Usage, Time+plots+by+building+and+by+meter (1)
 
 Week of July 17
