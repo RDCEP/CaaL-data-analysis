@@ -36,3 +36,6 @@ We learned about plotly and applied it to make more interractive and informative
 We plotted percent difference for the campus (excluding hospital) as a whole and identified campus-wide anomalies.
 We created a histogram of anomalies by day, which showed an irregular pattern, including days on which nearly half of buildings experienced anomalies and only a few days with no anomalies.
 We ploted number of anomalies by day along with temperature and found no correlation between number of anomalies and temperature.
+We plotted average monthly percent difference by meter for the top users on campus and found no similar trends. 
+We also compared lab data for Cornell with Uchicago’s labs and found that Cornell labs use considerably more energy than Uchicago labs. 
+Associated files: Anomalies+and+Normal+Usage (1), Box+Plots+and+Rolling+Mean, Building Age vs Usage (Categories, LEED)- Plotly, Libraries (anomalies and comparisons)
